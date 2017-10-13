@@ -1,0 +1,2 @@
+# APIRequest
+这是使用Pyhton调用接口抓取返回结果的项目，并将结果保存到PostgreSQL数据库里，以便以后进行数据分析。
